@@ -1,7 +1,7 @@
 # Hello, I'm Flavien ! 👋
 
 ## 📚 About Me
-I'm a 23 years old student deeply passionate about cybersecurity, currently advancing my expertise at ESGI, Paris, where I'm working towards my master's degree.  
+I'm a 24 years old student deeply passionate about cybersecurity, currently advancing my expertise at ESGI, Paris, where I'm working towards my master's degree.  
 My academic journey is not just about earning a degree, it's about immersing myself in the world of cybersecurity and emerging with skills that can make a difference.
 
 ## 💻 What I Do
