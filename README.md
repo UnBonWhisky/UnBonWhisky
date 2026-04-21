@@ -1,17 +1,39 @@
-# Hello, I'm Flavien ! 👋
-
-## 📚 About Me
-I'm a 24 years old student deeply passionate about cybersecurity, currently advancing my expertise at ESGI, Paris, where I'm working towards my master's degree.  
-My academic journey is not just about earning a degree, it's about immersing myself in the world of cybersecurity and emerging with skills that can make a difference.  
-I am currently seeking for a job in cybersecurity, like a cybersecurity developer (python / other languages), pentester or DevSecOps.
-
-## 💻 What I Do
-- **Cybersecurity Enthusiast:** I spend my days (and many nights) exploring the vast, challenging, and ever-evolving cybersecurity landscape. Whether it's staying ahead of the latest threats or understanding complex security systems, I'm all in.
-- **Coding Hobbyist:** When I'm not delving into cybersecurity, I like to get my hands dirty with coding and scripting. Random projects are my playground – they keep my skills sharp and my creativity flowing.
-- **Lifelong Learner:** The quest for knowledge never ends. I'm constantly on the lookout for new challenges and opportunities to learn, whether it's through formal education, self-study, or hands-on experience.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=UnBonWhisky&fontSize=80&fontAlignY=35&animation=twinkling&desc=Flavien%20|%20Cybersecurity%20Professional&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
 ---
 
-Thank you for visiting my GitHub profile. Let's connect and explore the infinite possibilities in the world of technology together!
+## GitHub Stats
 
-Contact : contact@unbonwhisky.fr
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UnBonWhisky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnBonWhisky&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UnBonWhisky&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UnBonWhisky&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UnBonWhisky)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gqfFqJp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@unbonwhisky.fr)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&desc=and%20developer%20in%20my%20freetime&descSize=-30&descAlignY=80" width="100%"/>
+</div>
