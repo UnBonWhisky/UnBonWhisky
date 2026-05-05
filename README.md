@@ -7,7 +7,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnBonWhisky&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="./profile/stats.svg"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UnBonWhisky&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
