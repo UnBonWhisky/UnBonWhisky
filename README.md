@@ -8,7 +8,7 @@
 
 <div align="center">
   <img height="180em" src="./profile/stats.svg"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UnBonWhisky&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
 
 ---
